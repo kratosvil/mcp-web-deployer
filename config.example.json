@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "web-deployer": {
+      "command": "RUTA_ABSOLUTA_AL_PYTHON_DEL_VENV",
+      "args": [
+        "RUTA_ABSOLUTA_AL_SERVER_PY"
+      ],
+      "env": {}
+    }
+  }
+}
