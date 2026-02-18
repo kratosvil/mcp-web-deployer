@@ -29,7 +29,7 @@ You tell Claude what you want in plain language. Claude generates the HTML, depl
   (prompt)   (generates)   (deploys)    (nginx)   (localhost:8080)
 ```
 
-![Screenshot](docs/images/screenshot.png)
+![Demo](docs/images/demo.gif)
 
 ## Features
 
