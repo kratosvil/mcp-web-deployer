@@ -1,4 +1,6 @@
 # MCP Web Deployer
+An MCP server that allows LLM agents to deploy static web applications
+locally using Docker and Nginx in a controlled execution environment.
 
 <div align="center">
 
